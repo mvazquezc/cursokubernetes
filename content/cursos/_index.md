@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Cursos
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explore our courses below and expand your knowledge!
+<!-- Explore our courses below and expand your knowledge! -->

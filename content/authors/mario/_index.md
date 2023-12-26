@@ -1,16 +1,12 @@
 ---
 # Display name
-title: 吳恩達
-
-# Username (this should match the folder name)
-authors:
-  - 吳恩達
+title: Mario Vázquez
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: R Instructor
+role: Solutions Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -54,6 +50,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

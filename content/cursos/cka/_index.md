@@ -1,11 +1,11 @@
 ---
-title: 🤖 Learn Robotics
-linkTitle: Learn Robotics
+title: 📊 Certified Kubernetes Administrator (CKA)
+linkTitle: CKA
 summary: An example of using Hugo Blox Builder's Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
 tags:
-  - previous
+  - current
 ---
 
 {{< figure src="featured.jpg" >}}
