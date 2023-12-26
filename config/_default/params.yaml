@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} CursoKubernetes.dev. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -69,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/theme-online-course'
+    url: 'https://github.com/mvazquezc/cursokubernetes'
     content_dir: content
     branch: main
   comment:
